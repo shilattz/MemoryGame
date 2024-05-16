@@ -1,6 +1,5 @@
 package com.example.myapplication;
-//Name:Shilat Tzur
-//ID:213660210
+
 import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.view.View;
